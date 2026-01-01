@@ -1,0 +1,9 @@
+pandas
+requests
+spacetrack
+numpy
+matplotlib
+scikit-learn
+torch
+python-dotenv
+sgp4
